@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Milagros</title>
+        <style>
+        h1{
+            color: #4d0028;
+            font-size:50px;
+        }   
+        h2{
+            color: #99004f;
+            font-size:30px;
+        }
+         h3{
+            color: #ff339c;
+            font-size:30px;
+        }
+        a{
+            color: #99004f;
+            font-size:30px;
+        }
+        body{
+                background-color:#000000
+;
+        }
+        
+        </style>
+    </head>
+    <body>
+        <h1>Bio</h1>
+         
+        <a href= ""> Home </a>
+         Bio 
+        <a href= ""> Portfolio </a>
+        
+        <h3></h3>
+        
+    </body>
+</html>
